@@ -1,0 +1,11 @@
+numpy
+opencv_python
+lxml
+torch
+torchvision
+scipy
+pycocotools
+matplotlib
+tqdm
+tensorboard
+PyYAML

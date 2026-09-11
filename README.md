@@ -2,7 +2,7 @@
 该项目主要是在复现yolov3论文基础上添加SPP结构来实现自己的项目，具体源码复现https://github.com/ultralytics/yolov3
 主要对cowboyoutfits做五类的多目标检测，共对这五类做目标检测belt,sunglasses,boot,cowboy_hat,jacket
 <p align="center">
-  <img src="images/result.jpg" width="600">
+  <img src="test_result.jpg" width="600">
 </p>
 # 实现细节
 原始COCO格式标注转换为网络需要的YOLO格式；
